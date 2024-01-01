@@ -1,1 +1,1 @@
-TimeSeriesAnalysis, ARIMA
+TimeSeriesAnalysis, ARIMA, LinearRegression
